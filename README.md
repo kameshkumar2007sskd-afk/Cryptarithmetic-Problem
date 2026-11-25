@@ -78,6 +78,7 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
+
 ## Program:
 ```
 from itertools import permutations
@@ -104,7 +105,6 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
-    
 ```
 
 ## Output:
