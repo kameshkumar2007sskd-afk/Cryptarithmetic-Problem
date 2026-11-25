@@ -104,7 +104,9 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
+    
 ```
+
 ## Output:
 <img width="201" height="91" alt="image" src="https://github.com/user-attachments/assets/c0353ed5-49b6-4bb0-a6d1-d01963c766a5" />
 
